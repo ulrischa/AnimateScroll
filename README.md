@@ -1,4 +1,3 @@
-````markdown
 # AnimateScroll
 
 AnimateScroll is a tiny CSS layer that connects [Animate.css](https://animate.style/) animations to modern CSS scroll driven timelines.
